@@ -1,0 +1,9 @@
+" System bundles
+
+Bundle 'gmarik/vundle'
+
+" ROH bundles
+
+Bundle 'scrooloose/nerdtree'
+Bundle 'kien/ctrlp.vim'
+Bundle 'flazz/vim-colorschemes'
