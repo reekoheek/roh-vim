@@ -61,3 +61,9 @@
         source ~/.vimrc.local
     endif
 " }
+
+" Bundles {
+    " NerdTree {
+        map <C-e> :NERDTreeToggle<CR>:NERDTreeMirror<CR>
+    " }
+" }
